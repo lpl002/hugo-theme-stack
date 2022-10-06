@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 欢迎访问我的博客，本人是名热爱和平与打游戏的卑微大学生，目前还在不断学习，有时间就来此处逛逛。
         avatar:
             enabled: true
             local: true
