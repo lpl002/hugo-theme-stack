@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: LPL
+title: 今晚月色真美
 
 languages:
     en:
