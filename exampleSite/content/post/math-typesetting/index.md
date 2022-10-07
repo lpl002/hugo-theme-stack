@@ -3,7 +3,9 @@ author: 今晚月色真美
 title: 关于我
 date: 2019-03-08
 description: 一篇自我介绍
-tags = [" 我 "]
+tags = [
+"我"
+]
 image = "aili.jpg"
 ---
 ## 总体
